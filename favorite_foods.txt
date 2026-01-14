@@ -7,3 +7,7 @@ tamales
 wq
 :i
 i
+more favorite foods:
+peaches
+pomegranates
+fried shrimp
