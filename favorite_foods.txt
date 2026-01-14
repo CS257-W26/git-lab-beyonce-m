@@ -3,10 +3,7 @@ steamed buns
 tamalespozole
 steamed buns
 tamales
-:wq
-wq
-:i
-i
+
 more favorite foods:
 peaches
 pomegranates
